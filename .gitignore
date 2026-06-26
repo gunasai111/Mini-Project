@@ -4,4 +4,4 @@ build/
 *.log
 .env
 .env.local
-coverage/
+coverage/.DS_Store 
